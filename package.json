@@ -1,0 +1,30 @@
+{
+  "name": "sky-webhooks-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackbaud-BobbyEarl/sky-webhooks-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blackbaud-BobbyEarl/sky-webhooks-demo/issues"
+  },
+  "homepage": "https://github.com/Blackbaud-BobbyEarl/sky-webhooks-demo#readme",
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "express": "4.17.1",
+    "minimist": "1.2.5",
+    "ngrok": "^3.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
