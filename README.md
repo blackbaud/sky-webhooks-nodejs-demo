@@ -1,6 +1,6 @@
-# sky-webhooks-demo
+# SKY Webhooks Demo (NodeJS)
 
-NodeJS / JavaScript version of the [SKY Developer Webhooks Tutorial](https://developer.blackbaud.com/skyapi/apis/webhook/tutorial)
+A simple NodeJS application to highlight all the moving pieces for registering and receiving webhook subscriptions. A more thorough [SKY Developer Webhooks tutorial](https://developer.blackbaud.com/skyapi/apis/webhook/tutorial) explaining all the mechanics is available in C#. This is a complimentary tutorial for anyone more familiar with JavaScript.
 
 ## Usage
 
