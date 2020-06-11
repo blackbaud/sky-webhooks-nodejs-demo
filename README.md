@@ -1,4 +1,4 @@
-# sky-webhooks-demo
+# sky-webhooks-nodejs-demo
 
 NodeJS / JavaScript version of the [SKY Developer Webhooks Tutorial](https://developer.blackbaud.com/skyapi/apis/webhook/tutorial)
 
